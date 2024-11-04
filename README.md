@@ -1,12 +1,19 @@
-To-Do List Application
+**To-Do List Application**
 
-This project is a simple, interactive to-do list built with React and JavaScript. It allows users to efficiently manage tasks by adding, moving, and deleting items on the list.
+An interactive to-do list application built with React and JavaScript. This app is designed for efficient task management, enabling users to add, reorder, and delete tasks seamlessly.
 
-Features
+**Key Features**
 
-Add Tasks: Quickly add new tasks to your to-do list with a simple input.
+Add, Reorder, Delete Tasks: Simplify task management with intuitive controls.
 
-Move Tasks: Ability to move tasks up and down the list.
+Dynamic Updates: React’s state management allows instant updates on task changes.
 
-Delete Tasks: Remove tasks individually to keep your list clutter-free.
+Clean, Responsive UI: Styled with CSS for clarity and responsiveness across devices.
 
+**Technologies Used**
+
+React: For building the user interface.
+
+JavaScript: For dynamic, interactive content.
+
+CSS: For a clean, responsive design.
